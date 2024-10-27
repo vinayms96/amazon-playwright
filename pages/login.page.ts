@@ -1,0 +1,3 @@
+class LoginPage {
+    readonly test
+}
